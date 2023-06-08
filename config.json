@@ -1,10 +1,10 @@
 {
   "type": "exercise",
-  "programming_language": "ZiM javascript",
+  "programming_language": "javascript",
   "access": "public",
   "description": {
     "names": {
-      "nl": "Voorbeeld oefening",
+      "nl": "Voorbeeld oefening karel",
       "en": "Example exercise"
     }
   },
