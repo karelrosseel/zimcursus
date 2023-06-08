@@ -9,8 +9,8 @@
     }
   },
   "evaluation": {
-    "handler": "python",
-    "image": "dodona/dodona-python",
+    "handler": "javascript",
+    "image": "dodona/dodona-javascript",
     "time_limit": 10,
     "memory_limit": 10000000,
     "network_enabled": true
