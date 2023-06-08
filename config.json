@@ -4,7 +4,7 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Voorbeeld oefening karel",
+      "nl": "Voorbeeld oefening karel2",
       "en": "Example exercise"
     }
   },
@@ -19,7 +19,7 @@
     "voorbeeld",
     "eenvoudige oefening"
   ],
-  "contact": "Dodona <dodona@ugent.be>",
+  "contact": "Karel Rosseel <karel.rosseel@gmail.com>",
   "internals": {
     "token": "KTuBjrBpdGr-yzHwZMUDiF3MxUIdX3aeZZ8jN57P9GNFqdZWdXI_B3NgHw3pdddG",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
