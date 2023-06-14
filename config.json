@@ -4,8 +4,8 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Voorbeeld oefening karel2",
-      "en": "Example exercise"
+      "nl": "Kennismaking met zimjs.com/slate",
+      "en": "Get started with zimjs.com/slate"
     }
   },
   "evaluation": {
@@ -17,7 +17,7 @@
   },
   "labels": [
     "zim",
-    "eenvoudige oefening"
+    "starter"
   ],
   "contact": "Karel Rosseel <karel.rosseel@gmail.com>",
   "internals": {
