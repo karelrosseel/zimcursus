@@ -1,0 +1,1 @@
+Schrijf de tekst "Hallo, ZIM!" uit.

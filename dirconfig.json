@@ -1,9 +1,10 @@
 {
   "access": "public",
   "evaluation": {
-    "handler": "javascript",
+    "handler": "tested",
     "time_limit": 15,
-    "memory_limit": 100000000
+    "memory_limit": 100000000,
+    "test_suite": "tested.yaml"
   },
   "labels": [
     "zim"
