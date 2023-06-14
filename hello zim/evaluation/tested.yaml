@@ -1,4 +1,3 @@
 - tab: 'ZIM'
   testcases:
-    - statement: 'Schrijf de tekst "Hallo, ZIM!" uit'
     - stdout: "Hallo, ZIM!"
