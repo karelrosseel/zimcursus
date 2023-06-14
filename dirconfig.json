@@ -1,11 +1,14 @@
-
+{
   "access": "private",
   "evaluation": {
     "handler": "javascript",
     "time_limit": 15,
     "memory_limit": 100000000
   },
+  "labels": [
+    "zim"
+  ],
   "programming_language": "javascript",
-  "author": "Firstname Lastname <firstname_lastname@ugent.be>",
-  "contact": "firstname_lastname@ugent.be"
+  "author": "Karel Rosseel",
+  "contact": "karel.rosseel@gmail.com"
 }
