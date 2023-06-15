@@ -27,5 +27,5 @@ Meer info there:
 <div class="dodona-centered-group">
    <img src="https://i.imgur.com/iz3nQRN.png" />
   <img src="https://i.imgur.com/1f6WRNM.png" />
- ![https://i.imgur.com/iz3nQRN.png](https://i.imgur.com/1f6WRNM.png)
+ [https://i.imgur.com/iz3nQRN.png](https://i.imgur.com/1f6WRNM.png)
 </div>
