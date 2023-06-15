@@ -7,3 +7,10 @@ De code zal er als volgt uit zien
 
 Test je code op [zimjs.com/slate](zimjs.com/slate) of in [zimjs.com/editor](zimjs.com/editor)
 Succes
+
+Tip: console (informatie die je krijgt als je code typt.
+* standaard gebruikt javascript console.log("Hallo, ZIM") 
+* maar ZIMjs verkort alles naar zog("Hallo, ZIM") meer info in de [https://zimjs.com/docs.html?item=zog](https://zimjs.com/docs.html?item=zog)
+
+Meer info there: 
+[Show image]([https://i.imgur.com/1f6WRNM.png](https://i.imgur.com/1f6WRNM.png)){: .dodona-lightbox}
