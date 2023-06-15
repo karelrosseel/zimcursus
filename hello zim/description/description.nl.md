@@ -13,4 +13,5 @@ Tip: console (informatie die je krijgt als je code typt.
 * maar ZIMjs verkort alles naar zog("Hallo, ZIM") meer info in de [https://zimjs.com/docs.html?item=zog](https://zimjs.com/docs.html?item=zog)
 
 Meer info there: 
+<a href="https://i.imgur.com/1f6WRNM.png" class="dodona-lightbox">Show image</a>
 [Show image](https://i.imgur.com/1f6WRNM.png){: .dodona-lightbox}
