@@ -1,8 +1,8 @@
 {
   "description": {
     "names": {
-     "nl": "1. Tekst Label maken en zog() Hallo, ZIM!",
-     "en": "2. Make a Label and try to zog() Hello, ZIM!"
+      "nl": "1. Tekst Label maken en zog() Hallo, ZIM!",
+      "en": "2. Make a Label and try to zog() Hello, ZIM!"
     }
   },
   "labels": [
