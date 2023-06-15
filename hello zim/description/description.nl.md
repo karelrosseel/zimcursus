@@ -16,7 +16,7 @@ Meer info there:
 <a href="https://i.imgur.com/1f6WRNM.png" class="dodona-lightbox">Show image</a>
 [afbeelding van op zimjs.com/docs zog()](https://i.imgur.com/1f6WRNM.png){: .dodona-lightbox}
 <div class="dodona-centered-group">
+   <img src="https://i.imgur.com/iz3nQRN.png" />
   <img src="https://i.imgur.com/1f6WRNM.png" />
-  <img src="https://i.imgur.com/0PLgT76.png" />
-  <img src="https://i.imgur.com/iz3nQRN.png" />
+ ![Dodona logo]("https://i.imgur.com/1f6WRNM.png")
 </div>
