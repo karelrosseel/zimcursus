@@ -7,6 +7,7 @@ new Label("Hallo, ZIM!", 30, null, black).center(); // no font is specified so i
 new Label({text:"Hallo, ZIM!", size:30, font:null, color: black}).center(); //specify all ZIM DUO elements 
 new Label({text:"Hallo, ZIM!", size:30, color:black}).center(); // you don't have to specify all elements in order
 ```
+Je kan natuurlijk ook alles op verschillende lijnen typen maar dat brengt een groter/langer tekstbestand, maar meer duidelijkheid.
 ```javascript
 new Label({
    text:"Hallo, ZIM!",
@@ -19,9 +20,12 @@ new Label({
 Test je code op [zimjs.com/slate](zimjs.com/slate) of in [zimjs.com/editor](zimjs.com/editor)
 Succes
 
-Tip: console (informatie die je krijgt als je code typt.
+Tip: de Console van de webbrowser openen (doe je met ctrl+shift+i) (=informatie die je krijgt als je code uitvoert)
 * standaard gebruikt javascript console.log("Hallo, ZIM") 
 * maar ZIMjs verkort alles naar zog("Hallo, ZIM") meer info in de [https://zimjs.com/docs.html?item=zog](https://zimjs.com/docs.html?item=zog)
+```javascript
+zog("Hallo, ZIM")
+```
 
 Meer info there: 
 <a href="https://i.imgur.com/1f6WRNM.png" class="dodona-lightbox">Show image</a>
