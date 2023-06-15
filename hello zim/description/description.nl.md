@@ -1,9 +1,9 @@
 Schrijf de tekst "Hallo, ZIM!" in het midden van je canvas.
 De code zal er als volgt uit zien
-* new Label("Hallo, ZIM!").center();  // size standard 30 points en color black
-* new Label("Hallo, ZIM!", 30, null, black).center(); // no font is specified so it is null
-* new Label({text:"Hallo, ZIM!", size:30, font:null, color: black}).center(); //specify all ZIM DUO elements
-* new Label({text:"Hallo, ZIM!", size:30, color:black}).center(); // you don't have to specify all elements in order
+* ```new Label("Hallo, ZIM!").center();  // size standard 30 points en color black ```
+* ```new Label("Hallo, ZIM!", 30, null, black).center(); // no font is specified so it is null ```
+* ```new Label({text:"Hallo, ZIM!", size:30, font:null, color: black}).center(); //specify all ZIM DUO elements ```
+* ```new Label({text:"Hallo, ZIM!", size:30, color:black}).center(); // you don't have to specify all elements in order ```
 
 ```javascript
 new Label({
@@ -26,6 +26,9 @@ Meer info there:
 [afbeelding van op zimjs.com/docs zog()](https://i.imgur.com/1f6WRNM.png){: .dodona-lightbox}
 <div class="dodona-centered-group">
    <img src="https://i.imgur.com/iz3nQRN.png" />
+   Je klikt op EXPAND en ziet deze informatie 
+   Tip: avatar Pragma kan je ook terugvinden op de intropagaina zimjs.com/kids 
+   
   <img src="https://i.imgur.com/1f6WRNM.png" />
  [https://i.imgur.com/iz3nQRN.png](https://i.imgur.com/1f6WRNM.png)
 </div>
