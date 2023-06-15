@@ -4,9 +4,17 @@ Welkom bij ZIM!
 Dag code-liefhebber, die pwa-apps wil maken voor je smartphone.<br>
 Zim is al sinds 2014 bezig [zimjs.com/timeline](https://zimjs.com/timeline) met canvas-apps te maken die we ZAPPs noemen (ZIM APPS).
   <br><br>
-  In juni is ZIM 014 gelanceerd geweest. Alle versies kan je terugvinden op [devs.zimjs.com](https://devs.zimjs.com)
+  In juni 2023 is ZIM 014 gelanceerd, alles startte in 2014. De naamgeving is verschillende keren veranderd van de versies, wil je de versies terugvinden kijk dan op [devs.zimjs.com](https://devs.zimjs.com)
   <iframe src="https://zimjs.com/timeline" height="500" width="300" title="Zimjs.com/timeline"></iframe>
-Het leuke is dat op een website via je browser je kan surfen naar een app, en ze ook kan installeren als je wil als icoontje op je smartphone. Meer info op [zimjs.com/zapps.html](https://zimjs.com/zapps.html)
+  <div class="dodona-centered-group">
+   <img src="https://i.imgur.com/wubk2Zj.png" 
+        data-caption="De verschillende versies van ZIM: ook op devs.zimjs.com terug te vinden"
+   />
+Iedere PWA-app die je maakt met zim is eigenlijk een html-website via je browser, die je kan installeren als bureaublad-icoontje op je smartphone. Een app gemaakt met zim noemen we ook een ZAPP. (Zim+APP)
+Test maar eens de volgende apps
+* [zimjs.com/pwa](https://zimjs.com/pwa) : portrait Zapp (rechtstaande app voor je smartphone) 
+* [zimjs.com/groovity](https://zimjs.com/groovity) : landscape Zapp (liggende app voor je smartphone)
+Meer info op [zimjs.com/zapps.html](https://zimjs.com/zapps.html)
 <br>
 Natuurlijk wil je eerst zelf leren coderen en daarom heeft ZIM onderaan de website een link naar [zimjs.com/kids](https://zimjs.com/kids) of je kan ook surfen naar [kids.zimjs.com](https://kids.zimjs.com/kids).
   <br><br>
