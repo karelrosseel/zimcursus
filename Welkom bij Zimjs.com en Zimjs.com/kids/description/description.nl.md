@@ -1,15 +1,14 @@
 Welkom bij ZIM!
 
 
-Dag code-liefhebber, die pwa-apps wil maken voor je smartphone.
-Zim is al sinds 2014 bezig met canvas-apps te maken die we ZAPPs noemen (ZIM APPS).
+Dag code-liefhebber, die pwa-apps wil maken voor je smartphone.<br>
+Zim is al sinds 2014 bezig [zimjs.com/timeline](zimjs.com/timeline) met canvas-apps te maken die we ZAPPs noemen (ZIM APPS).
   <br><br>
 Het leuke is dat op een website via je browser je kan surfen naar een app, en ze ook kan installeren als je wil als icoontje op je smartphone. Meer info op [zimjs.com/zapps.html](zimjs.com/zapps.html)
 <br>
 Natuurlijk wil je eerst zelf leren coderen en daarom heeft ZIM onderaan de website een link naar [zimjs.com/kids](zimjs.com/kids) of je kan ook surfen naar [kids.zimjs.com](kids.zimjs.com/kids).
   <br><br>
-
-Als opvolger van Scratch is ZIM ideaal omdat leerlingen al typend leren coderen.
+Als opvolger van [Scratch.mit.edu](Scratch.mit.edu) is ZIM ideaal omdat leerlingen al typend leren coderen met [zimjs.com/kids/slate](zimjs.com/kids/slate).
 <br>
 <div class="dodona-centered-group">
 Bekijk alvast even die filmpje waarin [zimjs.com/kids/slate](zimjs.com/kids/slate) wordt uitgelegd.
