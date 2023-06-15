@@ -1,5 +1,7 @@
 Schrijf de tekst "Hallo, ZIM!" in het midden van je canvas.
-De code zal er als volgt uit zien
+Tip: we gebruiken nooit print("...") omdat dit naar de console.log("..") wordt geschreven, maar wel zog("..").
+
+De code zal er als volgt uit zien (denk aan een label/etiketje in je kledij waarop ook tekst staat)
 
 ```javascript 
 new Label("Hallo, ZIM!").center();  // size standard 30 points en color black
