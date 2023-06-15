@@ -37,11 +37,15 @@ Meer info there:
    <img src="https://i.imgur.com/iz3nQRN.png" 
         data-caption="zog() rechtsboven zoeken, EXPAND-knop om code-beschrijving te lezen"
    />
+   Je klikt op EXPAND en ziet deze informatie over hoe je de code zog() moet gebruiken
+   <img src="https://i.imgur.com/0PLgT76.png"  width="600"
+        data-caption="zog() rechtsboven zoeken, EXPAND-knop om code-beschrijving te lezen"
+   />
   <br>
-   Je klikt op EXPAND en ziet deze informatie over hoe je de code zog() moet gebruiken 
+   In het volgende hoofdstukken zal niet meer de info getoond worden hoe je naar de docs moet navigeren. 
  <br>
   <img src="https://i.imgur.com/1f6WRNM.png" width="500"
-       data-caption="zog() codebeschrijving met ook kleurweergave mogelijk in de console"
+       data-caption="enkel de zog() codebeschrijving met ook kleurweergave mogelijk in de console"
    />
  <br> Tip: avatar Pragma (Madeleine Zen, dochter van uitvinder Dan Zen) kan je ook terugvinden op de banner op zimjs.com/kids  
 </div>
