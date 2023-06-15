@@ -14,4 +14,9 @@ Tip: console (informatie die je krijgt als je code typt.
 
 Meer info there: 
 <a href="https://i.imgur.com/1f6WRNM.png" class="dodona-lightbox">Show image</a>
-[Show image](https://i.imgur.com/1f6WRNM.png){: .dodona-lightbox}
+[afbeelding van op zimjs.com/docs zog()](https://i.imgur.com/1f6WRNM.png){: .dodona-lightbox}
+<div class="dodona-centered-group">
+  <img src="https://i.imgur.com/1f6WRNM.png" />
+  <img src="https://i.imgur.com/0PLgT76.png" />
+  <img src="https://i.imgur.com/iz3nQRN.png" />
+</div>
