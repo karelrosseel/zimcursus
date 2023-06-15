@@ -5,6 +5,7 @@ De code zal er als volgt uit zien
 * ```new Label({text:"Hallo, ZIM!", size:30, font:null, color: black}).center(); //specify all ZIM DUO elements ```
 * ```new Label({text:"Hallo, ZIM!", size:30, color:black}).center(); // you don't have to specify all elements in order ```
 
+```new Label("Hallo, ZIM!").center();  // size standard 30 points en color black```
 ```javascript
 new Label({
    text:"Hallo, ZIM!",
