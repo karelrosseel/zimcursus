@@ -12,7 +12,8 @@ Als opvolger van Scratch is ZIM ideaal omdat leerlingen al typend leren coderen.
 
 Bekijk alvast even die filmpje waarin [zimjs.com/kids/slate](zimjs.com/kids/slate) wordt uitgelegd.
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7F6O_O9bBGA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  
 Wil je meer info over de vernieuwde website (update 20 mei 2023), bekijk dan het volgend filmpje
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-BHLqXgAcSY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
