@@ -1,1 +1,1 @@
-console.log("Hallo, ZIM!");
+zog("Hallo, ZIM!"); //is the same as console.log("Hallo, ZIM!")
