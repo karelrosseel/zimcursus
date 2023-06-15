@@ -28,13 +28,18 @@ zog("Hallo, ZIM")
 ```
 
 Meer info there: 
-<a href="https://i.imgur.com/1f6WRNM.png" class="dodona-lightbox">Show image</a>
-[afbeelding van op zimjs.com/docs zog()](https://i.imgur.com/1f6WRNM.png){: .dodona-lightbox}
+
+[afbeelding van op zimjs.com/docs zog](https://i.imgur.com/1f6WRNM.png){: .dodona-lightbox}
+<br>
 <div class="dodona-centered-group">
-   <img src="https://i.imgur.com/iz3nQRN.png" />
+   <img src="https://i.imgur.com/iz3nQRN.png" 
+        data-caption="zog() rechtsboven zoeken, EXPAND-knop om code-beschrijving te lezen"
+   />
   <br>
    Je klikt op EXPAND en ziet deze informatie 
   <br> Tip: avatar Pragma kan je ook terugvinden op de intropagaina zimjs.com/kids  
-  <img src="https://i.imgur.com/1f6WRNM.png" />
- [https://i.imgur.com/iz3nQRN.png](https://i.imgur.com/1f6WRNM.png)
+  <img src="https://i.imgur.com/1f6WRNM.png" 
+       data-caption="zog() codebeschrijving met ook kleurweergave mogelijk in de console"
+   />
+
 </div>
