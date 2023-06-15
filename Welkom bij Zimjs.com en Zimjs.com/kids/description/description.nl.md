@@ -1,6 +1,5 @@
 Welkom bij ZIM!
 
-<div class="dodona-centered-group">
 
 Dag code-liefhebber, die pwa-apps wil maken voor je smartphone.
 Zim is al sinds 2014 bezig met canvas-apps te maken die we ZAPPs noemen (ZIM APPS).
@@ -12,6 +11,7 @@ Natuurlijk wil je eerst zelf leren coderen en daarom heeft ZIM onderaan de websi
 
 Als opvolger van Scratch is ZIM ideaal omdat leerlingen al typend leren coderen.
 <br>
+<div class="dodona-centered-group">
 Bekijk alvast even die filmpje waarin [zimjs.com/kids/slate](zimjs.com/kids/slate) wordt uitgelegd.
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7F6O_O9bBGA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
