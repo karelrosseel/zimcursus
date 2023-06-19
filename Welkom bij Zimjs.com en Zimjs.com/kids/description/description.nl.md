@@ -5,11 +5,10 @@ Dag code-liefhebber, die pwa-apps wil maken voor je smartphone.<br>
 Zim is al sinds 2014 bezig [zimjs.com/timeline](https://zimjs.com/timeline) met canvas-apps te maken die we ZAPPs noemen (ZIM APPS).
   <br><br>
   In juni 2023 is ZIM 014 gelanceerd, alles startte in 2014. De naamgeving is verschillende keren veranderd van de versies, wil je de versies terugvinden kijk dan op [devs.zimjs.com](https://devs.zimjs.com)
+ 
   <iframe src="https://zimjs.com/timeline" height="500" width="300" title="Zimjs.com/timeline"></iframe>
-  <div class="dodona-centered-group">
-   <img src="https://i.imgur.com/wubk2Zj.png" 
-        data-caption="De verschillende versies van ZIM: ook op devs.zimjs.com terug te vinden"
-   />
+  
+   <br>
 Iedere PWA-app die je maakt met zim is eigenlijk een html-website via je browser, die je kan installeren als bureaublad-icoontje op je smartphone. Een app gemaakt met zim noemen we ook een ZAPP. (Zim+APP)
 Test maar eens de volgende apps
 * [zimjs.com/pwa](https://zimjs.com/pwa) : portrait Zapp (rechtstaande app voor je smartphone) 
@@ -35,4 +34,3 @@ Je kan de introvideo bekijken van [Echalk.co.uk](echalk.co.uk) hier
 <br>
 Wil je werken met de [zimjs.com/kids/slate](https://zimjs.com/kids/slate) of de [zimjs.com/editor](https://zimjs.com/editor) dan kan je bestanden opslaan voor jezelf.
 
-</div>
