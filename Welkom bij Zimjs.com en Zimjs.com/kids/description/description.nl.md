@@ -8,7 +8,7 @@ Zim is al sinds 2014 bezig [zimjs.com/timeline](https://zimjs.com/timeline) met 
   <br>
   De naamgeving is verschillende keren veranderd van de versies, wil je de versies terugvinden kijk dan op [devs.zimjs.com](https://devs.zimjs.com)
  <div class="dodona-centered-group">
-  <iframe width="800" heigt="400" src="https://zimjs.com/timeline" title="Zimjs.com/timeline"></iframe>
+  <iframe width="800" height="400" src="https://zimjs.com/timeline" title="Zimjs.com/timeline"></iframe>
   </div>
    <br>
 Iedere PWA-app die je maakt met zim is eigenlijk een html-website via je browser, die je kan installeren als bureaublad-icoontje op je smartphone. Een app gemaakt met zim noemen we ook een ZAPP. (Zim+APP)
