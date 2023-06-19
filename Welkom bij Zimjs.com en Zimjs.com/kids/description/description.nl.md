@@ -2,6 +2,13 @@ Welkom bij ZIM!
 
 
 Dag code-liefhebber, die pwa-apps wil maken voor je smartphone.<br>
+Kinderen kunnen leren programmeren met [zimjs.com/kids](https://zimjs.com/kids) waar mijn naam onderaan staat.
+Ik geloof er namelijk in dat tieners Engelse code kunnen leren typen en ze geen blokjes hoeven te slepen.
+<br>
+Net zoals [hellocode.be](https://hellocode.be) ben ik voorstander om tieners code te leren, javascript.
+<br>
+<img width:"500" src:"https://i.imgur.com/rUwR246.png">
+<br>
 Zim is al sinds 2014 bezig [zimjs.com/timeline](https://zimjs.com/timeline) met canvas-apps te maken die we ZAPPs noemen (ZIM APPS).
   <br><br>
   In juni 2023 is ZIM 014 gelanceerd, alles startte in 2014. 
