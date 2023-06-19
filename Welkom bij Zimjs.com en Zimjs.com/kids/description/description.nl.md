@@ -1,7 +1,7 @@
 Welkom bij ZIM!
 
 
-Dag code-liefhebber, die pwa-apps wil maken voor je smartphone.<br>
+Dag code-liefhebber, die [pwa-apps](https://www.youtube.com/watch?v=Z8MjdQGyjfA) wil maken voor je smartphone.<br>
 Kinderen kunnen leren programmeren met [zimjs.com/kids](https://zimjs.com/kids) waar mijn naam onderaan staat.
 Ik geloof er namelijk in dat tieners Engelse code kunnen leren typen en ze geen blokjes hoeven te slepen.
 <br>
