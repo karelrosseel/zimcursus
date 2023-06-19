@@ -7,8 +7,9 @@ Ik geloof er namelijk in dat tieners Engelse code kunnen leren typen en ze geen 
 <br>
 Net zoals [hellocode.be](https://hellocode.be) ben ik voorstander om tieners code te leren, javascript.
 <br>
+<div class="dodona-centered-group">
 <img src="https://i.imgur.com/UZpy8Od.png" alt="Girl in a jacket" width="500" >
-
+</div>
 <br>
 Zim is al sinds 2014 bezig [zimjs.com/timeline](https://zimjs.com/timeline) met canvas-apps te maken die we ZAPPs noemen (ZIM APPS).
   <br><br>
