@@ -6,7 +6,8 @@ Zim is al sinds 2014 bezig [zimjs.com/timeline](https://zimjs.com/timeline) met 
   <br><br>
   In juni 2023 is ZIM 014 gelanceerd, alles startte in 2014. 
   <br>
-  De naamgeving is verschillende keren veranderd van de versies, wil je de versies terugvinden kijk dan op [devs.zimjs.com](https://devs.zimjs.com)
+  De naamgeving is verschillende keren veranderd van de versies zie [zimjs.com/updates](https://zimjs.com/updates) .
+  Als developper kan je ook alle versies terugvinden op [devs.zimjs.com](https://devs.zimjs.com)
  <div class="dodona-centered-group">
   <iframe width="800" height="400" src="https://zimjs.com/timeline" title="Zimjs.com/timeline"></iframe>
   </div>
