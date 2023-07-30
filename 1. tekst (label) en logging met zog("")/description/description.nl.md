@@ -37,7 +37,7 @@ Meer info there:
    <img src="https://i.imgur.com/iz3nQRN.png" 
         data-caption="zog() rechtsboven zoeken, EXPAND-knop om code-beschrijving te lezen"
    />
-   Je klikt op EXPAND en ziet deze informatie over hoe je de code zog() moet gebruiken
+   <br>Je klikt op EXPAND en ziet deze informatie over hoe je de code zog() moet gebruiken
    <img src="https://i.imgur.com/0PLgT76.png"  width="600"
         data-caption="zog() rechtsboven zoeken, EXPAND-knop om code-beschrijving te lezen"
    />
